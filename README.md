@@ -200,7 +200,7 @@ This project is licensed under the MIT License.
 
 **Azhar Mehmood**
 
-GitHub: [https://github.com/noumi553](https://github.com/AzharData85)
+GitHub: [https://github.com/AzharData85](https://github.com/AzharData85)
 
 ---
 

@@ -198,9 +198,9 @@ This project is licensed under the MIT License.
 
 ## Author
 
-**Nouman**
+**Azhar Mehmood**
 
-GitHub: https://github.com/noumi553
+GitHub: [https://github.com/noumi553](https://github.com/AzharData85)
 
 ---
 
